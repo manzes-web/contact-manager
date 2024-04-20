@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contact List</string>
+    <string name="Add_contact">Add Contact</string>
+    <string name="Contact_Info">Contact Info</string>
+</resources>
